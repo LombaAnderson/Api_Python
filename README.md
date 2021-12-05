@@ -9,6 +9,7 @@ um banco de dados em Sqlite e sua aplicação Web em Python usando Flask e sem p
 ## Back end
 - Flask
 - API 
+- Sqlite3
 
 # Instruções para compilar, testar e rodar o projeto
 
